@@ -16,7 +16,7 @@ zjucn-webserver/
 │   │   ├── favicon.ico
 │   │   └── logo.jpg
 │   └── txt
-│       └── text.txt
+│       └── test.txt
 ├── include
 │   ├── def.hpp
 │   ├── Map.hpp

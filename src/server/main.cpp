@@ -33,7 +33,7 @@ int main(int argc, char *argv[]) {
     route["/"] = {FileTypes::HTML, "assets/html/test.html"};
     route["/test.html"] = {FileTypes::HTML, "assets/html/test.html"};
     route["/noimg.html"] = {FileTypes::HTML, "assets/html/noimg.html"};
-    route["/txt/text.txt"] = {FileTypes::TXT, "assets/txt/text.txt"};
+    route["/txt/test.txt"] = {FileTypes::TXT, "assets/txt/test.txt"};
     route["/img/logo.jpg"] = {FileTypes::JPG, "assets/img/logo.jpg"};
     route["/favicon.ico"] = {FileTypes::ICO, "assets/img/favicon.ico"};
     route["/post"] = {FileTypes::HTML, "", true};
