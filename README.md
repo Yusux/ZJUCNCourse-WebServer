@@ -101,7 +101,3 @@ Sender and Receiver class are used to encapsulate the sender and receiver method
 ### Server
 
 What the server does is to receive the request from the client and send the response back to the client.
-
-## Declaration
-
-ONLY FOR REFERENCE. Please **DO NOT COPY** the code **DIRECTLY**.
